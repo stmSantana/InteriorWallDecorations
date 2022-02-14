@@ -1,6 +1,7 @@
 # Interior Wall Decorations
 This is a mod for **The Long Dark** by Hinterland Studio, Inc.
 <img src="https://github.com/stmSantana/InteriorWallDecorations/blob/main/Images/Gallery/Gallery.jpg">
+<img src="https://github.com/stmSantana/InteriorWallDecorations/blob/main/Images/Gallery/Gallery%20(12).jpg" width="48%"> <img src="https://github.com/stmSantana/InteriorWallDecorations/blob/main/Images/Gallery/Gallery%20(8).jpg" width="48%">
 
 ## Installation
 * If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
