@@ -1,0 +1,18 @@
+{
+    "Name": "GEAR_WallPinBoxB",
+    "RequiredGear": ["GEAR_ScrapMetal","GEAR_Stick"],
+    "RequiredGearUnits": [1,1],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderRequired": 0.0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": ["GEAR_KnifeImprovised","GEAR_KnifeScrapMetal","GEAR_HighQualityTools","GEAR_SimpleTools"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_WallPinBoxB",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 60,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

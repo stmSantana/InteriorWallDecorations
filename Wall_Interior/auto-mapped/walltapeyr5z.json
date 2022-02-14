@@ -1,0 +1,38 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_WallTapeYR5Z",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_WallTapeYR5ZDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.25,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Auto",
+                                "PickUpAudio" : "",
+                                "PutBackAudio" : "",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+    },
+
+    "ModHarvestableBehaviour": {
+                                "Audio" : "",
+                                "Minutes" : 5,
+                                "YieldCounts" : [20],
+                                "YieldNames" : ["GEAR_WallTapeYR5C100"],
+                                "RequiredToolNames" : []
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" :   "GAMEPLAY_WallTapeYR5Z",
+                                "MultipleUnitTextId" : "GAMEPLAY_WallTapeYR5Z",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 100
+                             }
+}

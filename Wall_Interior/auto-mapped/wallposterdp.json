@@ -1,0 +1,37 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_WallPosterDP",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_WallPosterDPDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.1,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Auto",
+                                "PickUpAudio" : "",
+                                "PutBackAudio" : "",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1.5,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, -0.50, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+    },
+    "ModHarvestableBehaviour": {
+                                "Audio" : "",
+                                "Minutes" : 5,
+                                "YieldCounts" : [1],
+                                "YieldNames" : ["GEAR_Tinder"],
+                                "RequiredToolNames" : []
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" :   "GAMEPLAY_WallPosterDP",
+                                "MultipleUnitTextId" : "GAMEPLAY_WallPosterDP",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 100
+                             }
+}

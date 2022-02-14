@@ -1,0 +1,38 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_WallPinBoxG",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_WallPinBoxGDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.1,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Auto",
+                                "PickUpAudio" : "",
+                                "PutBackAudio" : "",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 1,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [3, 3, 3],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+    },
+
+    "ModHarvestableBehaviour": {
+                                "Audio" : "",
+                                "Minutes" : 5,
+                                "YieldCounts" : [50],
+                                "YieldNames" : ["GEAR_WallPin1G"],
+                                "RequiredToolNames" : []
+                            },
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" :   "GAMEPLAY_WallPinBoxG",
+                                "MultipleUnitTextId" : "GAMEPLAY_WallPinBoxG",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 1,
+                                "ChanceFull" : 100
+                             }
+}

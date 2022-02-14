@@ -1,0 +1,315 @@
+#-----------------
+loottable=BackPack
+#-----------------
+
+#-----------------
+loottable=BathroomCabinet
+#-----------------
+
+#-----------------
+loottable=Cabinet
+#-----------------
+
+#-----------------
+loottable=CargoClothingA
+#-----------------
+
+#-----------------
+loottable=CargoClothingB
+#-----------------
+
+#-----------------
+loottable=CargoClothingC
+#-----------------
+
+#-----------------
+loottable=CargoClothingRareA
+#-----------------
+
+#-----------------
+loottable=CargoClothingRareB
+#-----------------
+
+#-----------------
+loottable=CargoClothingRareC
+#-----------------
+
+#-----------------
+loottable=CargoDrinkA
+#-----------------
+
+#-----------------
+loottable=CargoDrinkB
+#-----------------
+
+#-----------------
+loottable=CargoDrinkC
+#-----------------
+
+#-----------------
+loottable=CargoFire
+#-----------------
+
+#-----------------
+loottable=CargoFoodA
+#-----------------
+
+#-----------------
+loottable=CargoFoodB
+#-----------------
+
+#-----------------
+loottable=CargoFoodC
+#-----------------
+
+#-----------------
+loottable=CargoFoodRareA
+#-----------------
+
+#-----------------
+loottable=CargoFoodRareB
+#-----------------
+
+#-----------------
+loottable=CargoFoodRareC
+#-----------------
+
+#-----------------
+loottable=CargoMaterialsA
+#-----------------
+
+#-----------------
+loottable=CargoMaterialsB
+#-----------------
+
+#-----------------
+loottable=CargoMaterialsRareA
+#-----------------
+
+#-----------------
+loottable=CargoMaterialsRareB
+#-----------------
+
+#-----------------
+loottable=CargoMaterialsRareC
+#-----------------
+
+#-----------------
+loottable=CargoMedical
+#-----------------
+
+#-----------------
+loottable=CargoMedicalRare
+#-----------------
+
+#-----------------
+loottable=CargoMiscA
+#-----------------
+
+#-----------------
+loottable=CargoMiscB
+#-----------------
+
+#-----------------
+loottable=CargoMiscC
+#-----------------
+
+#-----------------
+loottable=CargoMiscRareA
+#-----------------
+
+#-----------------
+loottable=CargoMiscRareB
+#-----------------
+
+#-----------------
+loottable=CargoMiscRareC
+#-----------------
+
+#-----------------
+loottable=CargoRifle
+#-----------------
+
+#-----------------
+loottable=CargoShoes
+#-----------------
+
+#-----------------
+loottable=CargoTools
+#-----------------
+
+#-----------------
+loottable=CashRegister
+#-----------------
+
+#-----------------
+loottable=Dresser
+#-----------------
+
+#-----------------
+loottable=EndTable_bedroom
+#-----------------
+
+#-----------------
+loottable=FileCabinet
+#-----------------
+item=WallTapeYR5Z w=1
+item=WallPinBoxR w=1
+item=WallPinBoxG w=1
+item=WallPinBoxB w=1
+
+#-----------------
+loottable=FirstAidKit
+#-----------------
+
+#-----------------
+loottable=FishingDrawer
+#-----------------
+
+#-----------------
+loottable=FishingSaltWater
+#-----------------
+
+#-----------------
+loottable=FishingFreshWater
+#-----------------
+
+#-----------------
+loottable=ForestryCrate
+#-----------------
+
+#-----------------
+loottable=Freezer
+#-----------------
+
+#-----------------
+loottable=Fridge
+#-----------------
+
+#-----------------
+loottable=GenericCabinet
+#-----------------
+
+#-----------------
+loottable=HumanCorpse
+#-----------------
+
+#-----------------
+loottable=HumanCorpseRare
+#-----------------
+
+#-----------------
+loottable=KitchenCupboard
+#-----------------
+
+#-----------------
+loottable=Laundry
+#-----------------
+
+#-----------------
+loottable=Locker
+#-----------------
+item=WallTapeYR5Z w=1
+item=WallPinBoxR w=1
+item=WallPinBoxG w=1
+item=WallPinBoxB w=1
+
+#-----------------
+loottable=LockerLocked
+#-----------------
+
+#-----------------
+loottable=MetalBox
+#-----------------
+item=WallTapeYR5Z w=1
+item=WallPinBoxR w=1
+item=WallPinBoxG w=1
+item=WallPinBoxB w=1
+
+#-----------------
+loottable=Oven
+#-----------------
+
+#-----------------
+loottable=PlasticBox
+#-----------------
+item=WallTapeYR5Z w=1
+item=WallPinBoxR w=1
+item=WallPinBoxG w=1
+item=WallPinBoxB w=1
+
+#-----------------
+loottable=RifleSupplies
+#-----------------
+
+#-----------------
+loottable=Safe
+#-----------------
+
+#-----------------
+loottable=Stones
+#-----------------
+
+#-----------------
+loottable=Suitcase
+#-----------------
+
+#-----------------
+loottable=TideLine
+#-----------------
+
+#-----------------
+loottable=ToolChest_sml
+#-----------------
+item=WallTapeYR5Z w=1
+item=WallPinBoxR w=1
+item=WallPinBoxG w=1
+item=WallPinBoxB w=1
+
+#-----------------
+loottable=ToolChest
+#-----------------
+item=WallTapeYR5Z w=1
+item=WallPinBoxR w=1
+item=WallPinBoxG w=1
+item=WallPinBoxB w=1
+
+#-----------------
+loottable=ToolChestDrawer
+#-----------------
+item=WallTapeYR5Z w=1
+item=WallPinBoxR w=1
+item=WallPinBoxG w=1
+item=WallPinBoxB w=1
+
+#-----------------
+loottable=VehicleGloveBox
+#-----------------
+item=WallTapeYR5Z w=1
+item=WallPinBoxR w=1
+item=WallPinBoxG w=1
+item=WallPinBoxB w=1
+
+#-----------------
+loottable=VehicleTrunk
+#-----------------
+item=WallTapeYR5Z w=1
+item=WallPinBoxR w=1
+item=WallPinBoxG w=1
+item=WallPinBoxB w=1
+
+#-----------------
+loottable=VehicleTrunkLocked
+#-----------------
+
+#-----------------
+loottable=Wardrobe_regular
+#-----------------
+
+#-----------------
+loottable=Workbench
+#-----------------
+item=WallTapeYR5Z w=1
+item=WallPinBoxR w=1
+item=WallPinBoxG w=1
+item=WallPinBoxB w=1

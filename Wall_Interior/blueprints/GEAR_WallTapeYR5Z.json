@@ -1,0 +1,18 @@
+{
+    "Name": "GEAR_WallTapeYR5Z",
+    "RequiredGear": ["GEAR_Gut","GEAR_Cloth"],
+    "RequiredGearUnits": [2,10],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderRequired": 0.0,
+    "RequiredTool": "GEAR_Knife",
+    "OptionalTools": ["GEAR_KnifeImprovised","GEAR_KnifeScrapMetal"],
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_WallTapeYR5Z",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 60,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
