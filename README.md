@@ -17,6 +17,7 @@ This is a mod for **The Long Dark** by Hinterland Studio, Inc.
 Currently the new item will be spawned while searching various locations, e.g. Workbench, PlasticBox, Locker.
 I have also added spawns for all items in various locations. Those are guaranteed. e.g. QuonsetGasStation, Dam, CampOffice.
 Also, some items can be crafted.
+<img src="https://github.com/stmSantana/InteriorWallDecorations/blob/main/Images/Gallery/Gallery%20(10).jpg" width="40%">
 
 ### Adding Items
 Using the [DeveloperConsole](https://github.com/FINDarkside/TLD-Developer-Console) Items can be manually added to your inventory with the command `add <GearName>`.
