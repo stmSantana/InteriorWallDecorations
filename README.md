@@ -19,42 +19,7 @@ Using the [DeveloperConsole](https://github.com/FINDarkside/TLD-Developer-Consol
 The item is fully integrated into the console and will appear in the auto-complete when pressing tab.
 
 ### Gear list
-#### Calendar
-- GEAR_WallCalA
-
-#### Picture Frame
-- GEAR_WallFrameB
-- GEAR_WallFrameG
-- GEAR_WallFrameR
-
-#### Picture and Frame
-- GEAR_WallPicFA
-
-#### Picture
-- GEAR_WallCpicA
-- GEAR_WallCpicBe
-- GEAR_WallCpicDp
-- GEAR_WallCpicMo
-
-#### Push pins
-- GEAR_WallPin1B
-- GEAR_WallPin1G
-- GEAR_WallPin1R
-- GEAR_WallPinBoxB
-- GEAR_WallPinBoxG
-- GEAR_WallPinBoxR
-- GEAR_WallPinRY
-
-#### Poster
-- GEAR_WallPosterCH
-- GEAR_WallPosterDP
-- GEAR_WallPosterML
-
-#### Tape
-- GEAR_WallTapeYR5A10
-- GEAR_WallTapeYR5B50
-- GEAR_WallTapeYR5C100
-- GEAR_WallTapeYR5Z
+[Wiki](https://github.com/stmSantana/InteriorWallDecorations/wiki)
 
 ## Special Thanks
 The Long Dark Modding Server (discord)
