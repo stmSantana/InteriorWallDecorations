@@ -7,6 +7,9 @@ This is a mod for **The Long Dark** by Hinterland Studio, Inc.
 * Install the latest version of [ModComponent](https://github.com/ds5678/ModComponent) and its dependencies.
 * Download latest version of `Wall_Interior.modcomponent` from the [releases page](https://github.com/stmSantana/InteriorWallDecorations/releases/latest).
 * Move `Wall_Interior.modcomponent` to your mods folder.
+### Recommended mods
+* [Placing Anywhere by Xpazeman](https://github.com/Xpazeman/tld-placing-anywhere)
+* [PlaceFromInventory by zorgesho](https://github.com/zorgesho/TheLongDarkMods/tree/master/PlaceFromInventory)
 
 ## Description v1.0
 
