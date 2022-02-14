@@ -17,6 +17,7 @@ Also, some items can be crafted.
 
 ### Adding Items
 Using the [DeveloperConsole](https://github.com/FINDarkside/TLD-Developer-Console) Items can be manually added to your inventory with the command `add <GearName>`.
+(e.g. `add Wallposterch`)
 The item is fully integrated into the console and will appear in the auto-complete when pressing tab.
 
 ### Gear list
