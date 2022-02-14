@@ -26,7 +26,7 @@ Using the [DeveloperConsole](https://github.com/FINDarkside/TLD-Developer-Consol
 The item is fully integrated into the console and will appear in the auto-complete when pressing tab.
 
 ### Gear Name List
-[Wiki](https://github.com/stmSantana/InteriorWallDecorations/wiki)
+[Interior Wall Decorations Wiki](https://github.com/stmSantana/InteriorWallDecorations/wiki)
 
 ## Special Thanks
 The Long Dark Modding Server (discord)
