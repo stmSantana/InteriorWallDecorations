@@ -20,7 +20,7 @@ Using the [DeveloperConsole](https://github.com/FINDarkside/TLD-Developer-Consol
 (e.g. `add Wallposterch`)
 The item is fully integrated into the console and will appear in the auto-complete when pressing tab.
 
-### Gear list
+### Gear Name List
 [Wiki](https://github.com/stmSantana/InteriorWallDecorations/wiki)
 
 ## Special Thanks
