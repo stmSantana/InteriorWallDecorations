@@ -18,7 +18,8 @@ This is a mod for **The Long Dark** by Hinterland Studio, Inc.
 
 ## Description v1.4
 ### New(1.4): My Pictures Feature ###
-* MyPicturesMod.dll allows you to view PNG files in the **Mods\WallMyPictures** folder.<br> And You can edit and replace with another image. However, do not rename the file.
+* Several new posters, picture frames, and photos have been added. They are white paper with nothing drawn on them, but MyPicturesMod.dll can display PNG files in the **Mods/WallMyPictures** folder on their surfaces. The downloaded WallMyPictures folder initially contains PNG files, but you can also replace them with other images by editing those PNG files. You can use different resolutions, but please keep the ratio of height to width. Also, do not change the file name.<br>
+<img src="https://github.com/stmSantana/InteriorWallDecorations/blob/main/Images/Gallery/v1_4_1.jpg" width="48%"> <img src="https://github.com/stmSantana/InteriorWallDecorations/blob/main/Images/Gallery/v1_4_2.jpg" width="48%">
 
 
 ### Finding Items
