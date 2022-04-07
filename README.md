@@ -1,18 +1,25 @@
-# Interior Wall Decorations
+# Interior Wall Decorations and My Pictures
 This is a mod for **The Long Dark** by Hinterland Studio, Inc.
 <img src="https://github.com/stmSantana/InteriorWallDecorations/blob/main/Images/Gallery/Gallery.jpg">
 <img src="https://github.com/stmSantana/InteriorWallDecorations/blob/main/Images/Gallery/Gallery%20(12).jpg" width="48%"> <img src="https://github.com/stmSantana/InteriorWallDecorations/blob/main/Images/Gallery/Gallery%20(8).jpg" width="48%">
 
-## Installation
+## Installation v1.4
 * If you haven't done so already, install MelonLoader by downloading and running [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
 * Install the latest version of [ModComponent](https://github.com/ds5678/ModComponent) and its dependencies.
-* Download latest version of `Wall_Interior.modcomponent` from the [releases page](https://github.com/stmSantana/InteriorWallDecorations/releases/latest).
-* Move `Wall_Interior.modcomponent` to your mods folder.
+* Download latest version of `Wall_Interior.zip` from the [releases page](https://github.com/stmSantana/InteriorWallDecorations/releases/latest).
+* Move **MyPicturesMod.dll** file in the downloaded ZIP to the your Mods folder.<br>
+* Move **Wall_Interior.modcomponent** to your Mods folder.
+* Move **WallMyPictures** folder in the downloaded ZIP and all files in it to the Mods folder.
+
+
 ### Recommended mods
 * [Placing Anywhere by Xpazeman](https://github.com/Xpazeman/tld-placing-anywhere)
 * [PlaceFromInventory by zorgesho](https://github.com/zorgesho/TheLongDarkMods/tree/master/PlaceFromInventory)
 
-## Description v1.0
+## Description v1.4
+### New(1.4): My Pictures Feature ###
+* MyPicturesMod.dll allows you to view PNG files in the **Mods\WallMyPictures** folder.<br> And You can edit and replace with another image. However, do not rename the file.
+
 
 ### Finding Items
 - **Loot:** Currently the new item will be found while searching various locations, e.g. Workbench, PlasticBox, Locker.
